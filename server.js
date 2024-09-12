@@ -28,14 +28,16 @@ function getRandomScoreAdjustment() {
 
 // Function to update odds in all odds files
 function updateOdds() {
-    const oddsDirectory = path.join(__dirname, 'data', 'odds');
-    const files = fs.readdirSync(oddsDirectory);
+    const oddsInputDirectory = path.join(__dirname, 'data', '/input/odds');
+    const oddsOutputDirectory = path.join(__dirname, 'data', '/output/odds');
+    const files = fs.readdirSync(oddsInputDirectory);
 
     files.forEach(file => {
-        const filePath = path.join(oddsDirectory, file);
+        const inputFilePath = path.join(oddsInputDirectory, file);
+        const outputFilePath = path.join(oddsOutputDirectory, file);
 
         // Read the file
-        fs.readFile(filePath, 'utf8', (err, data) => {
+        fs.readFile(inputFilePath, 'utf8', (err, data) => {
             if (err) {
                 console.error(`Error reading file ${file}:`, err);
                 return;
@@ -75,7 +77,7 @@ function updateOdds() {
                 });
 
                 // Write the updated data back to the file
-                fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), 'utf8', err => {
+                fs.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2), 'utf8', err => {
                     if (err) {
                         console.error(`Error writing file ${file}:`, err);
                     } else {
@@ -91,14 +93,16 @@ function updateOdds() {
 
 // Function to update scores in all scores files
 function updateScores() {
-    const scoresDirectory = path.join(__dirname, 'data', 'scores');
-    const files = fs.readdirSync(scoresDirectory);
+    const scoresInputDirectory = path.join(__dirname, 'data', '/input/scores');
+    const oddsOutputDirectory = path.join(__dirname, 'data', '/output/scores');
+    const files = fs.readdirSync(scoresInputDirectory);
 
     files.forEach(file => {
-        const filePath = path.join(scoresDirectory, file);
+        const inputFilePath = path.join(scoresInputDirectory, file);
+        const outputFilePath = path.join(oddsOutputDirectory, file);
 
         // Read the file
-        fs.readFile(filePath, 'utf8', (err, data) => {
+        fs.readFile(inputFilePath, 'utf8', (err, data) => {
             if (err) {
                 console.error(`Error reading file ${file}:`, err);
                 return;
@@ -124,7 +128,7 @@ function updateScores() {
                 });
 
                 // Write the updated data back to the file
-                fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), 'utf8', err => {
+                fs.writeFile(outputFilePath, JSON.stringify(jsonData, null, 2), 'utf8', err => {
                     if (err) {
                         console.error(`Error writing file ${file}:`, err);
                     } else {
@@ -146,7 +150,7 @@ setInterval(updateScores, 5000);
 app.get('/sports/:sport_key/odds', (req, res) => {
     const sportKey = req.params.sport_key;
     const fileName = `${sportKey}_odds.json`;
-    const filePath = path.join(__dirname, 'data', 'odds', fileName);
+    const filePath = path.join(__dirname, 'data', '/output/odds', fileName);
 
     fs.readFile(filePath, 'utf8', (err, data) => {
         if (err) {
@@ -169,7 +173,7 @@ app.get('/sports/:sport_key/odds', (req, res) => {
 app.get('/sports/:sport_key/scores', (req, res) => {
     const sportKey = req.params.sport_key;
     const fileName = `${sportKey}_scores.json`;
-    const filePath = path.join(__dirname, 'data', 'scores', fileName);
+    const filePath = path.join(__dirname, 'data', '/output/scores', fileName);
 
     fs.readFile(filePath, 'utf8', (err, data) => {
         if (err) {

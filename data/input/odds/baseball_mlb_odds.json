@@ -1,0 +1,258 @@
+[
+  {
+    "id": "a40e159f557e4978d40a97082598411a",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-12T17:11:00Z",
+    "home_team": "Detroit Tigers",
+    "away_team": "Colorado Rockies",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Colorado Rockies",
+                "price": 189.15
+              },
+              {
+                "name": "Detroit Tigers",
+                "price": -35.620000000000005
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  },
+  {
+    "id": "51ce7a23a55dfe052dc48506e7fc1076",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-12T17:16:00Z",
+    "home_team": "St. Louis Cardinals",
+    "away_team": "Cincinnati Reds",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Reds",
+                "price": 20.5
+              },
+              {
+                "name": "St. Louis Cardinals",
+                "price": -216.44
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  },
+  {
+    "id": "d7d6aca41e09d495880715151d2058f2",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-12T18:11:00Z",
+    "home_team": "Houston Astros",
+    "away_team": "Oakland Athletics",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Houston Astros",
+                "price": -20.61
+              },
+              {
+                "name": "Oakland Athletics",
+                "price": 286.1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  },
+  {
+    "id": "f9eeb3ae242e0fa47b5a65048753f9f8",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-12T22:45:00Z",
+    "home_team": "Washington Nationals",
+    "away_team": "Miami Marlins",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Miami Marlins",
+                "price": -29.459999999999994
+              },
+              {
+                "name": "Washington Nationals",
+                "price": -194.45999999999998
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  },
+  {
+    "id": "5dfd7ecdd0911eea17ddeb44db246522",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-12T23:16:00Z",
+    "home_team": "New York Yankees",
+    "away_team": "Boston Red Sox",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Boston Red Sox",
+                "price": -110.6
+              },
+              {
+                "name": "New York Yankees",
+                "price": 108.6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  },
+  {
+    "id": "9d9e809d7c2bb31367695cd3e6144004",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-12T23:16:00Z",
+    "home_team": "Cleveland Guardians",
+    "away_team": "Tampa Bay Rays",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Guardians",
+                "price": -165.3
+              },
+              {
+                "name": "Tampa Bay Rays",
+                "price": 103.2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  },
+  {
+    "id": "c840fe589e1d3ae1c97b898a47d27ee5",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-13T01:41:00Z",
+    "home_team": "Seattle Mariners",
+    "away_team": "Texas Rangers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Seattle Mariners",
+                "price": 34.620000000000005
+              },
+              {
+                "name": "Texas Rangers",
+                "price": 201.36
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  },
+  {
+    "id": "42ab7e5ba0533b019de9878bed36b89d",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2024-09-13T01:46:00Z",
+    "home_team": "San Francisco Giants",
+    "away_team": "Milwaukee Brewers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.688Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.688Z",
+            "outcomes": [
+              {
+                "name": "Milwaukee Brewers",
+                "price": 73.77
+              },
+              {
+                "name": "San Francisco Giants",
+                "price": 219.1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.688Z"
+  }
+]

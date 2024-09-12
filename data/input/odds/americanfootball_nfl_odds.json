@@ -1,0 +1,1004 @@
+[
+  {
+    "id": "ddd9b67cf1d68282e1e8652000c0d015",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-13T00:20:00Z",
+    "home_team": "Miami Dolphins",
+    "away_team": "Buffalo Bills",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": -85.86
+              },
+              {
+                "name": "Miami Dolphins",
+                "price": -1.259999999999991
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "5a2bfc721fb2300d4578743aee7ad891",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Baltimore Ravens",
+    "away_team": "Las Vegas Raiders",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -136.76
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": 206.3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "b4769cda12183128858f49f475aabfce",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Carolina Panthers",
+    "away_team": "Los Angeles Chargers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Carolina Panthers",
+                "price": 87.94999999999999
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": 271.42
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "111ac41e21c6f16a2d3d1511f07e2004",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Cleveland Browns",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Browns",
+                "price": 318.24
+              },
+              {
+                "name": "Jacksonville Jaguars",
+                "price": -218.32
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "5b05775b536cda3f2efab93935af4f54",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Dallas Cowboys",
+    "away_team": "New Orleans Saints",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Dallas Cowboys",
+                "price": -25.620000000000005
+              },
+              {
+                "name": "New Orleans Saints",
+                "price": 115.15
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "787ae4144b2b45d7ef8a9c7b1ab6abd8",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Detroit Lions",
+    "away_team": "Tampa Bay Buccaneers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Detroit Lions",
+                "price": -189.72
+              },
+              {
+                "name": "Tampa Bay Buccaneers",
+                "price": 40.849999999999994
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "c4e5642a8746f3e8fbb09d59a611ffe4",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Green Bay Packers",
+    "away_team": "Indianapolis Colts",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Packers",
+                "price": -153.76
+              },
+              {
+                "name": "Indianapolis Colts",
+                "price": 136.68
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "9d5dace601f10c135f5c03facf23fd22",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Minnesota Vikings",
+    "away_team": "San Francisco 49ers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Minnesota Vikings",
+                "price": 97.05000000000001
+              },
+              {
+                "name": "San Francisco 49ers",
+                "price": 192.4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "42d27889b51ada96c20671b30129ce4e",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "New England Patriots",
+    "away_team": "Seattle Seahawks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "New England Patriots",
+                "price": 63.5
+              },
+              {
+                "name": "Seattle Seahawks",
+                "price": -112.44
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "495d9f2c316b05ef092099ef9401a180",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Washington Commanders",
+    "away_team": "New York Giants",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "New York Giants",
+                "price": 4.049999999999997
+              },
+              {
+                "name": "Washington Commanders",
+                "price": 193.8
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "17d4d840f9f4094d76c6e9b53b18ac05",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T17:00:00Z",
+    "home_team": "Tennessee Titans",
+    "away_team": "New York Jets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "New York Jets",
+                "price": -265.43
+              },
+              {
+                "name": "Tennessee Titans",
+                "price": -206.55
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "db997fc1b5fe71f4960012f81c21a017",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T20:05:00Z",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Los Angeles Rams",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": 21.849999999999994
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": 118.98000000000002
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "faaeaab20409da65e7314cc1857ccfba",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T20:25:00Z",
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Cincinnati Bengals",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bengals",
+                "price": 170.85
+              },
+              {
+                "name": "Kansas City Chiefs",
+                "price": -220.56
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "3a300e2fb659ca896b5e60252f13150c",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-15T20:25:00Z",
+    "home_team": "Denver Broncos",
+    "away_team": "Pittsburgh Steelers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -184.8
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -21.30000000000001
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "7533f0f2d5cfe270fa0ccdc32a98c7fd",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-16T00:20:00Z",
+    "home_team": "Houston Texans",
+    "away_team": "Chicago Bears",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": -82.9
+              },
+              {
+                "name": "Houston Texans",
+                "price": -166.61
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "2cefb0f9bcf18ed3f64396174ece14ad",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-17T00:15:00Z",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Atlanta Falcons",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 266.6
+              },
+              {
+                "name": "Philadelphia Eagles",
+                "price": 204.31
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "ff0f310a02a527f105b5b37dbd61c502",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-20T00:15:00Z",
+    "home_team": "New York Jets",
+    "away_team": "New England Patriots",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "New England Patriots",
+                "price": 72.4
+              },
+              {
+                "name": "New York Jets",
+                "price": -194.66
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "e46e4c9f5d6884910657cd6581da3978",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T17:00:00Z",
+    "home_team": "Indianapolis Colts",
+    "away_team": "Chicago Bears",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": 49.139999999999986
+              },
+              {
+                "name": "Indianapolis Colts",
+                "price": -124.25999999999999
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "200c20527d1d6f44257155548cdac1e8",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T17:00:00Z",
+    "home_team": "Cleveland Browns",
+    "away_team": "New York Giants",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Browns",
+                "price": -145.65
+              },
+              {
+                "name": "New York Giants",
+                "price": 173.3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "8b6897f314b84276526a4ba371d67e20",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T17:00:00Z",
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Denver Broncos",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -41.099999999999994
+              },
+              {
+                "name": "Tampa Bay Buccaneers",
+                "price": -7.569999999999993
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "fc293a1ac914f24cb110ed2b8250292d",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T17:00:00Z",
+    "home_team": "Minnesota Vikings",
+    "away_team": "Houston Texans",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Houston Texans",
+                "price": -57.49000000000001
+              },
+              {
+                "name": "Minnesota Vikings",
+                "price": -158.36
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "2ee776f967540a404694111f27822004",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T17:00:00Z",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Los Angeles Chargers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Chargers",
+                "price": -79.86
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": 65.74000000000001
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "326301fd41fe90d64929b44a2e227b23",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T17:00:00Z",
+    "home_team": "New Orleans Saints",
+    "away_team": "Philadelphia Eagles",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "New Orleans Saints",
+                "price": -318.5
+              },
+              {
+                "name": "Philadelphia Eagles",
+                "price": -239.44
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "81cee90c26bf0ec45c3bc946b8143e19",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T17:01:00Z",
+    "home_team": "Tennessee Titans",
+    "away_team": "Green Bay Packers",
+    "bookmakers": [],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "49397bc00cf6d5e50f0a943538f1b00d",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T20:05:00Z",
+    "home_team": "Las Vegas Raiders",
+    "away_team": "Carolina Panthers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Carolina Panthers",
+                "price": 1.7000000000000028
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": 263.49
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "acc41dc7aeae8f8db0604c743213916c",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T20:05:00Z",
+    "home_team": "Seattle Seahawks",
+    "away_team": "Miami Dolphins",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -93.11
+              },
+              {
+                "name": "Seattle Seahawks",
+                "price": -68.07
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "e61fbdc294fce579705fa0ed6de85ce2",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T20:25:00Z",
+    "home_team": "Arizona Cardinals",
+    "away_team": "Detroit Lions",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": -170.15
+              },
+              {
+                "name": "Detroit Lions",
+                "price": 275.44
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "cd904fbb09c5130b857595217364bb07",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T20:25:00Z",
+    "home_team": "Dallas Cowboys",
+    "away_team": "Baltimore Ravens",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": 22.980000000000004
+              },
+              {
+                "name": "Dallas Cowboys",
+                "price": -38.150000000000006
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "f89d2da2d1b692de14ddf77e186cc5c7",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-22T20:25:00Z",
+    "home_team": "Los Angeles Rams",
+    "away_team": "San Francisco 49ers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Los Angeles Rams",
+                "price": 136.85
+              },
+              {
+                "name": "San Francisco 49ers",
+                "price": -182.56
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "bd907bcbaaefa56a30c4fa2c57281a51",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-23T00:20:00Z",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Kansas City Chiefs",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": -137.36
+              },
+              {
+                "name": "Kansas City Chiefs",
+                "price": 179.51
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "96be3ba73fc562e49a0120b5923c3213",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-23T23:30:00Z",
+    "home_team": "Buffalo Bills",
+    "away_team": "Jacksonville Jaguars",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": -65.46000000000001
+              },
+              {
+                "name": "Jacksonville Jaguars",
+                "price": -282.46
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  },
+  {
+    "id": "8e047915fdc9b7dc77d2276e740f55d2",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2024-09-24T00:15:00Z",
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Washington Commanders",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-09-12T07:31:58.687Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-12T07:31:58.687Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bengals",
+                "price": 119.32999999999998
+              },
+              {
+                "name": "Washington Commanders",
+                "price": -31.549999999999997
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "last_update": "2024-09-12T07:31:58.687Z"
+  }
+]
